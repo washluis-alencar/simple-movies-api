@@ -1,18 +1,64 @@
-# Getting Started with Create React App
+# 🎬 Simple Movie Browser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Movie Browser is a simple React application that allows users to browse and search for movies, pulling data from the IMDb API.
 
-## Available Scripts
+## 🌟 Features
 
-In the project directory, you can run:
+- Browse popular movies on the homepage.
+- Search for movies by title.
 
-### `npm start`
+## 🛠️ Installation Steps
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+git clone https://github.com/username/movie-browser.git
+```
+
+2. Change the working directory
+
+```bash
+cd movie-browser
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+5. Run the app
+
+```bash
+npm start
+```
+
+🌟 You are all set!
+
+## 👩‍💻 Technologies
+
+- React.js
+- CSS Modules for styling
+
+## 📚 API
+
+This application uses the IMDb API for fetching movie data.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 👨‍🚀 Show your support
+
+Give a ⭐️ if you like this project!
+
+## 💌 Contact
+
+Created by Washington Luís - Feel free to contact me!
+
+---
+
+### Other scripts
 
 ### `npm test`
 
@@ -39,32 +85,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
